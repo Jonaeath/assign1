@@ -1,0 +1,117 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.contener{
+    position: relative;
+    padding-left: 100px;
+}
+.text-block{
+    position: absolute;
+    text-align: center;
+    bottom: 130px; 
+    padding-left: 420px;
+    color: white;
+    font-size: 20px;
+}  
+
+.give-for-meal{
+    text-align: center;
+    margin-top: 100px;
+
+    }    
+
+
+#display-box{
+    display: flex;
+    text-align: center;
+    padding-left: 560px;   
+}
+.box{
+    height: 40px;
+    width:70px;
+    border:1px black;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    margin: 0 10px ;
+    
+}
+.other-amount{
+    text-align: center;
+    bottom:20px;
+}
+.line1{
+  height: 2px;
+  background: black;
+  margin-bottom: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#display-box-donate{
+    display: flex;
+    text-align: center;
+    padding-left: 290px;
+}
+
+.box-donate-one{
+    height: 250px;
+    width:250px;
+    border:1px black;
+    margin: 0 25px ;
+    background-color: azure;
+}
+
+.box-donate-two{
+    height: 250px;
+    width:250px;
+    border:1px black;
+    margin: 0 25px ;
+    background-color: antiquewhite;
+}
+
+.box-donate-three{
+    height: 250px;
+    width:250px;
+    border:1px black;
+    margin: 0 25px ;
+    background-color: blanchedalmond;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+  
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(236, 10, 10);
+    font-weight: 400px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.one{
+    padding-right: 150px;
+}
+
+.flexible-coutainer{
+    display: flex;
+    margin-top: 150px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+    
+}
+
+.half-width img{
+    width: 100%
+    
+}
